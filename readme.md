@@ -1,7 +1,7 @@
 ### Introduction to Prisma with MongoDB
 I created this repo to create basic setup of using prisma, mongodb and typescript together.
 
-![Terminal Output](output.png)
+![Terminal Output](images/output.png)
 
 ##### Sources
 - [Prisma Documentation](https://www.prisma.io/docs)
@@ -10,4 +10,4 @@ I created this repo to create basic setup of using prisma, mongodb and typescrip
 ##### Extras
 I used [mongodb compass](https://www.mongodb.com/products/compass) to compare and retrieve my data.
 
-![Mongodb Compass](mongo-compass.png)
+![Mongodb Compass](images/mongo-compass.png)
