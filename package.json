@@ -1,0 +1,18 @@
+{
+  "name": "mongodb-prisma",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx tsc && node server.js",
+    "prismagen": "npx prisma generate"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@prisma/client": "^4.16.1",
+    "prisma": "^4.16.1",
+    "typescript": "^5.1.3"
+  }
+}
